@@ -48,3 +48,10 @@
 
 </body>
 </html>
+<section>
+  <h2>Fotos dos Serviços</h2>
+  <img src="dedetizacao1.jpg" alt="Dedetização 1" width="100%">
+  <img src="dedetizacao2.jpg" alt="Dedetização 2" width="100%">
+  <img src="dedetizacao3.jpg" alt="Dedetização 3" width="100%">
+  <img src="dedetizacao4.jpg" alt="Dedetização 4" width="100%">
+</section>
